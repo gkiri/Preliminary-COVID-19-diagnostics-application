@@ -6,5 +6,5 @@ The whole world has come to a standstill to fight the major pandemic that has ha
 
 # Idea
 The inital development is the development of a deep learning network to predict whether an audio sample belongs to:
-  1.Non-Cough Audio sample : Random Audio Sample.
-  2.Cough Audio Sample : Audio Samples containing coughing sounds.
+*  1.Non-Cough Audio sample : Random Audio Sample.
+*  2.Cough Audio Sample : Audio Samples containing coughing sounds.
